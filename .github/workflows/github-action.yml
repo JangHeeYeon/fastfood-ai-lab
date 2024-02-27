@@ -5,8 +5,8 @@ on:
     branches: [ main ]
 
 env:
-  DOCKERHUB_USERNAME: your_username
-  DOCKERHUB_PASSWORD: your_password  
+  DOCKERHUB_USERNAME: pkrod787@naver.com
+  DOCKERHUB_PASSWORD: gmldus@7377
 
 jobs:
   
