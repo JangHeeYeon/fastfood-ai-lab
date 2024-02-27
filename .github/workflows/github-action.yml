@@ -6,7 +6,7 @@ on:
 
 env:
   DOCKERHUB_USERNAME: pkrod787
-  DOCKERHUB_PASSWORD: gmldus@7377
+  DOCKERHUB_PASSWORD: 11111
 
 jobs:
   
